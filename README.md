@@ -12,7 +12,7 @@ https://moody-challenge.physionet.org/2023/
 ## Tutorials
 
 - Create repo
-![](video/physionet_create_repo.mp4)
+https://github.com/yanndebray/physionet/raw/master/video/physionet_create_repo.mp4
 
 - Access data
-![](video/physionet_access_data.mp4)
+https://github.com/yanndebray/physionet/raw/master/video/physionet_access_data.mp4

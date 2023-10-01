@@ -16,3 +16,7 @@ https://github.com/yanndebray/physionet/raw/master/video/physionet_create_repo.m
 
 - Access data
 https://github.com/yanndebray/physionet/raw/master/video/physionet_access_data.mp4
+
+- MATLAB workflow
+    [physionet_matlab.ipynb](physionet_matlab.ipynb) 
+    exported as Jupyter Notebook: `export('physionet.mlx','physionet_matlab.ipynb')`

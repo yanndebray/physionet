@@ -12,7 +12,8 @@ https://moody-challenge.physionet.org/2023/
 ## Tutorials
 
 - Create repo
-https://github.com/yanndebray/physionet/assets/128002745/c87489df-561f-4872-a69a-c0c0859c1735
+[physionet_create_repo.webm](https://github.com/yanndebray/physionet/assets/128002745/2f5049c9-e716-4843-bec6-28986aa9b954)
+[physionet_create_repo.mp4](https://github.com/yanndebray/physionet/assets/128002745/c87489df-561f-4872-a69a-c0c0859c1735)
 
 - Access data
 https://github.com/yanndebray/physionet/assets/128002745/c998c567-f530-48bd-a541-b9f20f7561ab
